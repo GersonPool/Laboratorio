@@ -133,16 +133,20 @@
                         <a href="#"><i class="fa fa-sitemap fa-fw"></i> Mantenimientos<span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
                             <li>
-                                <a href="Pages/Usuario/wfmUsu.aspx">Usuarios</a>
+                                <a href="Pages/Rol/wfmRol.aspx">Roles</a>
                             </li>
                             <li>
+                                <a href="Pages/Usuario/wfmUsu.aspx">Usuarios</a>
+                            </li>
+                            
+                            <%--<li>
                                 <a href="#">Third Level <span class="fa arrow"></span></a>
                                 <ul class="nav nav-third-level">
                                     <li>
                                         <a href="#">Third Level Item</a>
                                     </li>
                                 </ul>
-                            </li>
+                            </li>--%>
                         </ul>
                     </li>
                 </ul>
